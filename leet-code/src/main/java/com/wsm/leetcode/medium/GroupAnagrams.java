@@ -1,4 +1,4 @@
-package leetcode.medium;
+package com.wsm.leetcode.medium;
 
 import java.util.*;
 import java.util.stream.Collectors;
