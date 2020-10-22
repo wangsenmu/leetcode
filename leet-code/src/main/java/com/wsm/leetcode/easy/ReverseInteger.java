@@ -29,7 +29,7 @@ package com.wsm.leetcode.easy;
 public class ReverseInteger {
 
 
-    public int reverse(int x) {
+ /*   public int reverse(int x) {
 
         if (x == 0) {
             String xStr = x;
@@ -41,6 +41,6 @@ public class ReverseInteger {
 
         }
 
-    }
+    }*/
 
 }
